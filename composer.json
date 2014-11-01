@@ -1,0 +1,13 @@
+{
+    "name": "hangoutphp/php",
+    "require": {
+        "phpunit/phpunit": "3.7.1"
+    },
+    "authors": [
+        {
+            "name": "Ezequiel Silva",
+            "email": "eseveriano@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
